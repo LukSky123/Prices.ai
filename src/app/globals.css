@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Your custom styles */
+:root {
+  --background: #0b1020;
+  --foreground: #f8fafc;
+}
+
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: var(--foreground);
+  background: linear-gradient(135deg, #0b1020 0%, #111827 100%);
+}
+
+/* ...rest of your styles with @apply etc. */
+
+
