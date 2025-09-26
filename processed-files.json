@@ -1,0 +1,112 @@
+{
+  "processed": [
+    {
+      "file": "scraped-data\\jumia_alcohol.json",
+      "fileName": "jumia_alcohol.json",
+      "timestamp": "2025-09-26T11:13:02.110Z",
+      "success": true,
+      "processed": 34,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\jumia_alcohol2.json",
+      "fileName": "jumia_alcohol2.json",
+      "timestamp": "2025-09-26T11:14:23.725Z",
+      "success": true,
+      "processed": 126,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\jumia_rice.json",
+      "fileName": "jumia_rice.json",
+      "timestamp": "2025-09-26T11:14:34.310Z",
+      "success": true,
+      "processed": 9,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\supamart_oil.json",
+      "fileName": "supamart_oil.json",
+      "timestamp": "2025-09-26T11:15:29.037Z",
+      "success": true,
+      "processed": 69,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\supermart_alcohol.json",
+      "fileName": "supermart_alcohol.json",
+      "timestamp": "2025-09-26T11:17:04.721Z",
+      "success": true,
+      "processed": 100,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\supermart_soup.json",
+      "fileName": "supermart_soup.json",
+      "timestamp": "2025-09-26T11:27:28.450Z",
+      "success": true,
+      "processed": 78,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\jumia_alcohol.json",
+      "fileName": "jumia_alcohol.json",
+      "timestamp": "2025-09-26T11:32:05.334Z",
+      "success": true,
+      "processed": 34,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\jumia_alcohol2.json",
+      "fileName": "jumia_alcohol2.json",
+      "timestamp": "2025-09-26T11:33:24.210Z",
+      "success": true,
+      "processed": 126,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\jumia_rice.json",
+      "fileName": "jumia_rice.json",
+      "timestamp": "2025-09-26T11:33:33.431Z",
+      "success": true,
+      "processed": 9,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\supamart_oil.json",
+      "fileName": "supamart_oil.json",
+      "timestamp": "2025-09-26T11:34:25.419Z",
+      "success": true,
+      "processed": 69,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "file": "scraped-data\\supermart_alcohol.json",
+      "fileName": "supermart_alcohol.json",
+      "timestamp": "2025-09-26T11:35:58.622Z",
+      "success": true,
+      "processed": 100,
+      "errors": 0,
+      "skipped": 0
+    }
+  ],
+  "failed": [
+    {
+      "file": "scraped-data\\supermart_beans.json",
+      "fileName": "supermart_beans.json",
+      "timestamp": "2025-09-26T11:39:34.088Z",
+      "success": false,
+      "error": "fetch failed"
+    }
+  ]
+}
